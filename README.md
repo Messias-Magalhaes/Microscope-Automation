@@ -1,8 +1,8 @@
 # Microscope-Automation
-Messias X. Magalhães 
-messiasmagalhaes@alunos.utfpr.edu.br 
-Engenharia da Computação 
-UTFPR - Universidade Tecnológica Federal do Paraná 
+     Messias X. Magalhães
+     messiasmagalhaes@alunos.utfpr.edu.br 
+     Engenharia da Computação 
+     UTFPR - Universidade Tecnológica Federal do Paraná 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 INSTRUÇÕES PARA MONTAGEM DO CIRCUITO
